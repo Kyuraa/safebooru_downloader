@@ -2,6 +2,8 @@
 
 A Tampermonkey/Greasemonkey userscript that adds convenient download buttons below thumbnails on [safebooru.org](https://safebooru.org) and enables reliable, automatic downloading of full images when opened via the button.
 
+![Description of image](SS1.png)
+
 ## Features
 
 - **Download Button:** Adds a styled "Download" button below each thumbnail in the image list.
@@ -22,9 +24,6 @@ A Tampermonkey/Greasemonkey userscript that adds convenient download buttons bel
 - Click the button to open the full image in a new tab and trigger an automatic download.
 - The tab will close automatically after the download starts.
 
-## Author
-
-- [Kyura](https://github.com/your-github-username)
 
 ## License
 
