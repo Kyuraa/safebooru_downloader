@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Safebooru Auto Downloader (Robust Fixed)
+// @name         Safebooru Auto Downloader
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Adds styled download buttons below thumbnails on safebooru.org and reliably auto-downloads full image only when opened via the button.

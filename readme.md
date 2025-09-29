@@ -1,4 +1,4 @@
-# Safebooru Auto Downloader (Robust Fixed)
+# Safebooru Auto Downloader
 
 A Tampermonkey/Greasemonkey userscript that adds convenient download buttons below thumbnails on [safebooru.org](https://safebooru.org) and enables reliable, automatic downloading of full images when opened via the button.
 
