@@ -2,7 +2,7 @@
 // @name         Safebooru Auto Downloader
 // @namespace    http://tampermonkey.net/
 // @version      2.0
-// @description  Adds styled download buttons below thumbnails on safebooru.org and reliably auto-downloads full image only when opened via the button.
+// @description  Adds styled download buttons below thumbnails on safebooru.org and auto-downloads full image only when opened via the button.
 // @match        https://safebooru.org/*
 // @run-at       document-start
 // @grant        GM_download
